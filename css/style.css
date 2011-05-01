@@ -275,6 +275,14 @@ aside #nav ul li a.link{
 
 }
 
+.content ul li p{
+	margin-left:50px;
+}
+
+.content ul.pro li{
+	margin:20px 0;
+}
+
 .nodots{
 	list-style-type:none;
 }
