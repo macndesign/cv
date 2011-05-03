@@ -385,6 +385,10 @@ article header{
 	        box-shadow:0 45px 60px -60px #AAA;
 }
 
+.pro li p{
+	margin:10px 0;
+}
+
 /* #title, #web, #formation, #pro, #design, #formation{ */
 /* 	color:#426ce1; */
 /* } */
